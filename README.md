@@ -2,7 +2,7 @@ This project is a low-cost automatic pet feeder designed to feed cats and dogs r
 It uses a servo motor to dispense food, sensors to monitor the food bin and the pet's bowl, and an alert system to notify if something goes wrong, like food not being dispensed or pets not eating.
 
 ## Features
-- Scheduled Feeding:** Set feeding times and portion sizes for your pets.
+- Scheduled Feeding: Set feeding times and portion sizes for your pets.
 - Bowl & Bin Monitoring: Tracks bowl weight before, after dispensing, and after eating to confirm consumption.
 - Servo Motor Dispensing: Releases food precisely at the scheduled times.
 - Alerts: Notifies if there is a problem with dispensing or consumption.
